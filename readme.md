@@ -26,4 +26,5 @@ Um Sistema de Gerenciamento de Banco de Dados (SGBD) – do inglês Data Base Ma
 https://dicasdeprogramacao.com.br/o-que-e-um-sgbd/
 
 Nome do BD: id9489171_bd
+
 Usuário BD:id9489171_usuario
