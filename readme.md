@@ -122,9 +122,9 @@ Bem vindo <?php echo $_GET["nome"]; ?><br>
 Tome cuidado, agora sei seu e-mail: <?php echo $_GET["email"]; ?>
   <?php
   $servername = "localhost";
-  $username = "root";
-  $password = "";
-  $dbname = "loja";
+  $username = "root";//modificar o usuario
+  $password = "";//modificar a senha
+  $dbname = "loja";//modificar o banco de dados
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,$dbname);
