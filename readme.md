@@ -20,6 +20,10 @@ https://br.000webhost.com/
 </body>
 </html> 
 ```
-## Criação do LGDB
+## Criação do SGDB
+
+Um Sistema de Gerenciamento de Banco de Dados (SGBD) – do inglês Data Base Management System (DBMS) – é o conjunto de programas de computador (softwares) responsáveis pelo gerenciamento de uma base de dados. Seu principal objetivo é retirar da aplicação cliente a responsabilidade de gerenciar o acesso, a manipulação e a organização dos dados. O SGBD disponibiliza uma interface para que seus clientes possam incluir, alterar ou consultar dados previamente armazenados. Em bancos de dados relacionais a interface é constituída pelas APIs (Application Programming Interface) ou drivers do SGBD, que executam comandos na linguagem SQL (Structured Query Language).”
+https://dicasdeprogramacao.com.br/o-que-e-um-sgbd/
+
 Nome do BD: id9489171_bd
 Usuário BD:id9489171_usuario
