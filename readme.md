@@ -20,3 +20,6 @@ https://br.000webhost.com/
 </body>
 </html> 
 ```
+## Criação do LGDB
+Nome do BD: id9489171_bd
+Usuário BD:id9489171_usuario
