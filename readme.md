@@ -36,5 +36,5 @@ Usuário BD:id9489171_usuario
 ## Criando o banco de dados
 
 Utilizando o phpMyAdmin, foi criada uma tabela com 4 colunas.
-Uma coluna1 recebeu Nome do usuário(id com incremento), a coluna2 o email , coluna3 a senha e acoluna4 endereço.
+Uma coluna1 recebeu Nome do usuário(id com incremento) tipo INT, a coluna2 o email tipo VARCHAR, coluna3 a senha tipo VARCHAR e a coluna4 endereço tipo VARCHAR.
 
