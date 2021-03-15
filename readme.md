@@ -1,6 +1,8 @@
 # Banco de Dados para Web
 
 ## hospedagem de sites
+
+https://infinityfree.net/
 https://br.000webhost.com/
 
 ## Criação da primeira página em HTML
